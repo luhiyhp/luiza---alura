@@ -12,3 +12,10 @@ body{
     margin-top: 80px;
     margin-bottom: 80px;
 }
+header{
+    font-size: 40px;  
+    color: plum;
+    border-bottom: 3px plum;
+    padding: 20px;
+    
+}
